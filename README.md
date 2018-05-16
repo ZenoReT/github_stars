@@ -4,7 +4,9 @@
 # Description: The script for viewing stars of repositories on GitHub. 
 	You can see information about repositories, which user marked with a star(default) 
 	or about stars on their repositories(use key -aur)
-# Requirements: python version above 3.4
+# Requirements: 
+	*python version above 3.4
+	* requests lib
 # Composition:
 	* github_stars.py - main file with realization.
 # Keys:
