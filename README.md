@@ -7,6 +7,10 @@
 # Requirements: 
 	*python version above 3.4
 	* requests lib
+# Instalation:
+	1) Unpack.
+	2) python setup.py install.
+	3) Use command console.
 # Composition:
 	* github_stars.py - main file with realization.
 # Keys:
@@ -18,7 +22,7 @@
 	  -aur, --are_user_repositories
 	                        Will show user repositories stars
 # Usage:
-	C:\Users\username>github_stars username
+	github_stars username
 	repository_1: N1 stars
 	repository_2: N2 stars
 	...
